@@ -1,7 +1,7 @@
 # CraftyPrompt
 Take home prompt for Crafty Ruby on Rails Development Internship.
 
-Please find [replit link with code](https://replit.com/@DanielVandersan/CraftyPrompt "Replit link") if you don't want to download and compile the python file on your machine.
+Please find [replit link with code](https://replit.com/@DanielVandersan/CraftyPrompt "Replit link") if you don't want to download and compile the python file on your machine. Click on "show code" and click on "main.py" if you want to take a look at the code on Replit.
 
 I also uploaded a pdf that contains what I wrote down as my inital assumptions, thoughts for implementation, and thoughts for future development of the code.
 
