@@ -5,4 +5,4 @@ Please find [replit link with code](https://replit.com/@DanielVandersan/CraftyPr
 
 I also uploaded a pdf that contains what I wrote down as my inital assumptions, thoughts for implementation, and thoughts for future development of the code.
 
-Roughtly calculated total time: 15 minutes of making assumptions, thinking about implementation, 90 minutes of writing the code, and 15 minutes of writing tests and thinking of edge cases.
+Roughtly calculated total time: 15 minutes of making assumptions and thinking about implementation, 90 minutes of writing the code, and 15 minutes of writing tests and thinking of edge cases.
